@@ -2,12 +2,12 @@ import serial
 import requests
 
 # Arduino serial port configuration
-serial_port = 'COM3'  # Update with the appropriate serial port for your system
+serial_port = 'YOUR_SERIAL_PORT'  # Update with the appropriate serial port for your system...in my case it was 'COM3'
 baud_rate = 9600
 
-# Telegram bot API credentials
-bot_token = '6127138997:AAG3qmW5oIe2az7d_xmlVs-i23nmv45kVdM'
-chat_id = '5776095914'
+# Telegram bot API credentials...REPLACE THE VARIABLES
+bot_token = 'your_bot_token'
+chat_id = 'your_chat_id'
 
 # Initialize the serial connection
 ser = serial.Serial(serial_port, baud_rate, timeout=1)
