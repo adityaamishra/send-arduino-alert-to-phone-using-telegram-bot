@@ -10,3 +10,8 @@ Replace the variables in the code
 ## Close other windows like arduino ide etc that are using same serial port and then run the script after connecting the arduino setup to laptop using usb cable ;))
 
 thankyou
+
+![img_bot](https://github.com/adityaamishra/send-arduino-alert-to-phone-using-telegram-bot/assets/40532242/67a2576d-370a-47f2-a164-9a1262d0469f)
+
+
+
